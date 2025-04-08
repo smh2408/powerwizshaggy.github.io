@@ -1,0 +1,9 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+
+title: PowerWiz Shaggy
+description: Blog om Microsoft Power Platform, Copilot & AI og Dynamics 365
+author:
+  name: Shahid Mahmood Hussain
+  email: smh2408@gmail.com
